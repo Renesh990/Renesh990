@@ -1,28 +1,31 @@
 # Hi 👋, I'm Renesh Segaran
 
-### Computer Science Student | Full-Stack Developer | AI Engineer | Data Engineering Enthusiast
+**Computer Science & Data Analytics Graduate | Full-Stack Developer | Data & AI Enthusiast | Building Project Atlas**
 
-I enjoy building AI-powered software that solves real-world business problems through automation, document intelligence, and modern cloud technologies.
+I’m a Computer Science & Data Analytics graduate who enjoys building software that solves real-world problems through automation, data engineering, and artificial intelligence.
 
-I'm currently developing **Project Atlas**, an enterprise-grade AI Document Intelligence Platform designed to help organizations modernize decades of legacy documents into structured, searchable, and actionable digital data.
+I’m particularly interested in the challenges businesses face with messy, fragmented, and legacy data. I enjoy taking complex problems and turning them into practical software that makes data easier to clean, understand, transform, and use.
 
----
+🚀 **Currently Building — Project Atlas**
 
-# 🚀 About Me
+I’m developing **Project Atlas**, a data preparation platform designed to help businesses transform raw and messy datasets into clean, structured, analytics-ready data.
 
-- 🎓 Final Year Computer Science Student at Asia Pacific University (APU)
-- 💻 Full-Stack Developer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Engineering & Enterprise Systems
-- 🚀 Building Project Atlas from the ground up as an independent project
-- 🌱 Continuously learning enterprise software architecture and cloud technologies
+Atlas is being built to automate common data preparation tasks such as:
 
----
+- Data profiling
+- Missing-value detection and cleaning
+- Duplicate detection and removal
+- Column-name standardization
+- Inconsistent-value cleaning
+- Data-type standardization
+- Data quality analysis
+- Data transformation and format conversion
 
-# 💻 Tech Stack
+The long-term vision is to create a unified platform where businesses can bring together fragmented data from different files and cloud sources, automatically prepare it, and export high-quality datasets ready for analytics and business use.
 
-## Languages
+💻 **Tech Stack**
 
+**Languages**
 - Python
 - TypeScript
 - JavaScript
@@ -30,223 +33,144 @@ I'm currently developing **Project Atlas**, an enterprise-grade AI Document Inte
 - HTML5
 - CSS3
 
-## Frontend
-
+**Frontend**
 - Next.js
 - React
 - Tailwind CSS
 
-## Backend
-
+**Backend**
 - FastAPI
+- Python
 - REST APIs
-- Node.js
 
-## AI
+**Data & AI**
+- Pandas
+- Data Cleaning & Transformation
+- Data Profiling
+- Data Quality Analysis
+- Artificial Intelligence
+- Machine Learning
 
-- Ollama
-- Llama 3.2
-- Prompt Engineering
-- Natural Language Processing
-- AI Document Analysis
-
-## Database
-
+**Databases**
 - PostgreSQL
 - SQLAlchemy
 
-## Tools
-
+**Tools**
 - Git
 - GitHub
 - VS Code
 - Postman
-- pgAdmin
 
----
+🚀 **Featured Project**
 
-# 🚀 Featured Project
+## Project Atlas
 
-# Project Atlas
+**Data Preparation & Cleaning Platform**
 
-### AI-Powered Enterprise Document Intelligence Platform
+Project Atlas is an independent software project focused on solving one of the most time-consuming problems in data workflows: preparing messy data for actual use.
 
-Project Atlas is an enterprise document intelligence platform that transforms legacy documents into structured, searchable, AI-ready digital information using OCR, Artificial Intelligence, and modern data engineering pipelines.
+Businesses often work with datasets containing missing values, duplicate records, inconsistent formatting, poorly structured columns, and different data types. Atlas aims to automate these repetitive preparation tasks and turn raw datasets into clean, structured, analytics-ready data.
 
-The long-term vision is to help organizations migrate decades of paper documents and legacy records into secure, searchable enterprise knowledge systems.
+### ✅ Current Features
 
----
-
-# ✅ Current Features
-
-- AI Document Analysis
-- Word Document Upload
-- AI Document Classification
-- AI Summarization
-- Keyword Extraction
-- Document Statistics
-- PostgreSQL Integration
-- SQLAlchemy ORM
-- FastAPI Backend
-- Next.js Dashboard
-- Local AI using Ollama
-- Llama 3.2 Integration
-- Persistent Document Storage
-
----
-
-# 🛣️ Development Roadmap
-
-## Authentication & Security
-
-- User Registration
-- Secure Login
-- JWT Authentication
-- Password Encryption
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication
-- Session Management
-
-## Document Processing
-
-- PDF Support
-- OCR Processing
-- Image Upload
-- Scanned Document Recognition
-- Multi-language OCR
-- Batch Upload
-- Batch Processing
-- AI Metadata Extraction
-- AI Entity Recognition
-- AI Document Tagging
-- AI Document Comparison
+- CSV Dataset Upload
+- Dataset Profiling
+- Row & Column Analysis
+- Missing-Value Analysis
 - Duplicate Detection
+- Data-Type Analysis
+- Empty-String Detection
+- Unique-Value Analysis
+- Mixed-Data Detection
+- Data Quality Reporting
+- Data Quality Scoring
+- Duplicate Removal
+- Missing-Value Cleaning
+- Column-Name Standardization
+- Text-Value Standardization
+- Data-Type Standardization
+- FastAPI Backend
+- Pandas Data Processing
 
-## AI Features
+### 🛣️ Development Roadmap
 
-- Structured JSON Extraction
-- Enterprise Knowledge Extraction
-- Semantic Search
-- Vector Database Integration
-- AI Chat with Documents
-- RAG (Retrieval-Augmented Generation)
-- AI Insights
-- AI Recommendations
-- AI Workflow Automation
+**Data Preparation**
+- Advanced data cleaning
+- Before & after data comparison
+- Automated cleaning recommendations
+- Advanced validation rules
+- Data transformation pipelines
+- Data quality monitoring
 
-## Search
+**File Formats**
+- Excel
+- JSON
+- Parquet
+- Additional business data formats
 
-- Enterprise Search Engine
-- Full-Text Search
-- Advanced Filters
-- Smart Search
-- Search Suggestions
-- Search by Metadata
+**Multi-File Processing**
+- Multiple file uploads
+- Dataset merging
+- Column matching
+- Schema detection
+- Data consolidation
 
-## Dashboard & Analytics
+**Cloud Integrations**
+- Google Drive
+- Microsoft OneDrive
+- Cloud storage integrations
 
-- Analytics Dashboard
-- Upload Statistics
-- Processing Statistics
-- Storage Usage
-- User Activity
-- AI Performance Metrics
-- Interactive Charts
-- Data Visualizations
-- Reporting System
+**AI-Assisted Data Preparation**
+- Intelligent cleaning suggestions
+- Natural-language data transformations
+- AI-assisted data analysis
+- Automated anomaly detection
+- Intelligent data quality recommendations
 
-## Storage
+**Platform**
+- User accounts
+- Projects & workspaces
+- Authentication
+- Team collaboration
+- Usage management
+- Subscription plans
+- Stripe integration
 
-- Cloud Storage
-- AWS S3 Integration
-- Azure Blob Storage
-- Google Cloud Storage
-- Automatic Backups
-- Version Control
-- File Version History
+**Enterprise**
+- Organization management
+- Access controls
+- Audit logs
+- Secure data processing
+- Enterprise integrations
+- API access
 
-## Enterprise Features
-
-- Team Workspaces
-- Organization Management
-- Shared Documents
-- Collaboration Tools
-- Comments
-- Activity Logs
-- Audit Logs
-- Notifications
-- Email Integration
-- Microsoft 365 Integration
-- Google Workspace Integration
-
-## API
-
-- Public REST API
-- API Keys
-- Webhooks
-- Third-Party Integrations
-- Developer Documentation
-
-## Payments
-
-- Stripe Integration
-- Subscription Plans
-- Usage-Based Billing
-- Enterprise Licensing
-- Invoice Generation
-- Payment History
-
-## Infrastructure
-
-- Docker
-- Kubernetes
-- CI/CD Pipelines
-- GitHub Actions
-- Nginx
-- Redis
-- Celery
-- Background Workers
-- Load Balancing
-- Monitoring
-- Logging
-- Production Deployment
-
-## Security
-
-- End-to-End Encryption
-- Secure File Storage
-- GDPR Compliance
-- Data Privacy Controls
-- Access Logs
-- Backup & Disaster Recovery
-
----
-
-# 📚 Currently Learning
+🌱 **Currently Learning**
 
 - Enterprise Software Architecture
+- Data Engineering
 - Cloud Computing
 - Docker
-- Kubernetes
 - Distributed Systems
 - DevOps
 - AI Engineering
 - System Design
 - Scalable Backend Development
+- Software Architecture
 
----
+🎯 **Career Goal**
 
-# 🎯 Career Goal
+My goal is to build software products that solve meaningful business problems, particularly at the intersection of **data, artificial intelligence, automation, and enterprise software**.
 
-My goal is to build enterprise software that modernizes how organizations manage legacy information through Artificial Intelligence, automation, and scalable cloud technologies.
+I’m especially interested in building systems that take complex or messy information and turn it into something structured, useful, and accessible.
 
----
+Project Atlas is one of my steps toward that goal — I’m building it from the ground up and continuously learning through the process.
 
-# 📫 Connect With Me
+📫 **Connect With Me**
 
-- LinkedIn: https://www.linkedin.com/in/renesh-segaran-99517a271/
-- Email: reneshx@gmail.com
+**LinkedIn:**  
+https://www.linkedin.com/in/renesh-segaran-99517a271/
 
----
+**Email:**  
+reneshx@gmail.com
 
 ⭐ Thanks for visiting my GitHub profile!
